@@ -155,8 +155,8 @@ i {
 
 .hero-section {
   height: 100vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),url('/Users/daviddemau/Desktop/omnifood/images/hero-min.jpg');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/Users/daviddemau/Desktop/omnifood/images/hero-min.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),url('../images/hero-min.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('../images/hero-min.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
@@ -390,8 +390,8 @@ li img:hover {
 /* -------------------------------------------------- */
 
 .customers {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url('/Users/daviddemau/Desktop/omnifood/images/back-customers-min.jpg');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/Users/daviddemau/Desktop/omnifood/images/back-customers-min.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url('../images/back-customers-min.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/back-customers-min.jpg');
   background-size: cover;
   background-attachment: fixed;
   color: #fff;
