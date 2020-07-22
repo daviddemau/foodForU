@@ -1,0 +1,22 @@
+{
+  "name": "foodforu",
+  "version": "1.0.0",
+  "description": "A full HTML/CSS/JS website that showcases a food delivery application, foodForU. The aim of this project for me is to show my ability to code a nice looking and responsive one page website, using modern technologies and respecting coding standards.",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddemau/foodForU.git"
+  },
+  "author": "David Demau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviddemau/foodForU/issues"
+  },
+  "homepage": "https://github.com/daviddemau/foodForU#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
